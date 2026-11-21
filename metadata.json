@@ -1,0 +1,8 @@
+{
+  "name": "Quran Wonders & Tilawat",
+  "description": "Respectful multi-language Islamic web app featuring Quranic Wonders, Quranic Stories & Events, and Tilawat of all 114 Surahs with Urdu Kanz-ul-Iman style translation and audio recitation in English, Urdu, and Arabic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
